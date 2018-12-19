@@ -1,0 +1,8 @@
+OpenBlocks:infoBook,1,0
+SimpleAchievements:sa.achievementBook,1,0
+minecraft:apple,32,0
+minecraft:stone_pickaxe,1,0
+minecraft:stone_shovel,1,0
+minecraft:stone_sword,1,0
+minecraft:stone_axe,1,0
+minecraft:torch,16,0

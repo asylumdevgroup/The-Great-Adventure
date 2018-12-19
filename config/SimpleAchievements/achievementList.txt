@@ -1,0 +1,107 @@
+=== Vanilla Minecraft ===::1
+Make Leather Armor::0
+Mine Iron Ore::0
+Make Iron Armor::0
+Mine at least 8 Diamonds::0
+Make Diamond Armor::0
+Go to the Nether::0
+Find a Nether Fortress::0
+Kill enough Blazes to get at least 16 Blaze Rods::0
+Locate a Stronghold with Eyes of Ender::0
+Kill the Ender Dragon::0
+Return to the Nether Fortress and collect some Wither Skulls::0
+Kill a Wither::0
+=== Aether II ===::1
+Use some of your Glowstone from the Nether to make an Aether portal::0
+Mine some Ambrosium, Zanite, and Gravitite::0
+Enter Slider's Labyrinth::0
+Kill The Slider Boss::0
+Make an Altar of Light and Enchant your Gravitite::0
+=== The Erebus ===::1
+Mine Some Redgem::0
+Kill the Crushroom::0
+Kill the Tarantula Brood Mother::0
+Kill the Antlion Overlord::0
+=== Botania ===::1
+Build a basic Mana generation setup with Endoflames::0
+Make Manasteel, Mana Diamonds, and Mana Pearls::0
+Set up a Terrestrial Agglomeration Plate to make Terrasteel::0
+Make an Alfheim Portal to trade with the Elves::0
+Build an arena to fight the Gaia Guardian::0
+Fight the Gaia Guardian I::0
+Fight the Gaia Guardian II::0
+Collect all six possible drops from the Dice of Fate::0
+=== Twilight Forest ===::1
+Enter the Twilight Forest::0
+Make a Magic Map to find your way to the bosses::0
+Kill the Naga in its courtyard::0
+Find a Lich Tower to kill the Lich King::0
+Navigate the Labyrinth to kill the Minoshroom::0
+Kill the Hydra::0
+See through the Dark Forest and defeat the Knight Phantoms::0
+Climb the Dark Tower and slay the Ur-Ghast::0
+Defeat the Alpha Yeti and the Snow Queen::0
+Grow a giant beanstalk with Magic Beans from the troll caves; Kill the Giant::0
+Burn through the Thornlands, to access the Final Castle::0
+Have Killed all Nine Bosses::0
+=== DivineRPG ===::1
+Enter Iceika::0
+Kill an Enthralled Dramacryx underground to get some corrupted shards::0
+Kill the Ancient Entity::0
+Kill the Watcher::0
+Kill the King of Scorchers::0
+Kill the Ayeraco Horde::0
+Enter Eden::0
+Enter Wildwood::0
+Enter Apalachia::0
+Enter Skythern::0
+Enter Mortum::0
+Kill Kar-OT::0
+Kill the Twilight Demon::0
+Kill the Soul Fiend::0
+Kill Desnos and Reyvor::0
+Enter the Dungeon of Arcana::0
+Kill Parasecta::0
+Kill Dramix::0
+Enter Vethea by Sleeping in a Nightmare Bed::0
+Kill Quadro::0
+Kill the Hive Queen::0
+Kill Wreck::0
+Kill Lady Luna::0
+Kill Dr. Karos::0
+Have Entered all eight DivineRPG Dimensions and Killed all fifteen bosses::0
+=== Advent of Ascension ===::1
+Kill Smash the Troll::0
+Kill Corallus::0
+Kill King BamBamBam::0
+Kill the Nethegenic Wither::0
+Enter the Haven::0
+Kill Rockrider::0
+Kill the Four Guardians::0
+Enter the Abyss::0
+Kill Shadowlord::0
+Kill Elusive::0
+Enter Precasia and defeat the Skeletal Army::0
+Enter Mysterium and kill King Shroomus::0
+Enter Iromine and Kill Silverfoot::0
+Enter Lunalus and Kill Visualent::0
+Enter the Deeplands and Kill Kror::0
+Enter Gardencia and Kill Vinocorne::0
+Enter Greckon and Kill Bane::0
+Enter the Lands of Runandor and Kill Clunkhead::0
+Enter L'Borean and Kill Dracyon::0
+Enter Barathos and Kill the Hive King::0
+Enter Vox Ponds and Kill Voxxulon::0
+Enter Dustopia and Kill the Primordial Five::0
+Enter the Lands of Lelyetia and Kill Graw::0
+Enter the Ancient Cavern::0
+Kill Horon::0
+Kill Penumbra::0
+Kill Coniferon::0
+Kill Goldorth::0
+Enter Celeve and Kill Gyro::0
+Enter Crystevia and Kill Crystocore::0
+Enter Candyland and kill Cotton Candor::0
+Enter Immortalis and Kill the Immortals::0
+Enter Creeponia and Kill C.R.E.E.P.::0
+Have Entered all Twenty AoA Dimensions and Killed all 26 Bosses::0
