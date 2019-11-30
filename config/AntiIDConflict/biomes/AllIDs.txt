@@ -1,5 +1,5 @@
-Total amount of free biome ids: 40
-Total amount of occupied biome ids: 216
+Total amount of free biome ids: 16
+Total amount of occupied biome ids: 240
 Total amount of conflicted biome ids: 0
 All ids and their position:
 0 is Occupied by Ocean (biomesoplenty.common.biome.overridden.BiomeGenBOPOcean)
@@ -76,26 +76,26 @@ All ids and their position:
 71 is Occupied by Quagmire (biomesoplenty.common.biome.overworld.sub.BiomeGenQuagmire)
 72 is Occupied by Scrubland (biomesoplenty.common.biome.overworld.sub.BiomeGenScrubland)
 73 is Occupied by Spectral Garden (biomesoplenty.common.biome.end.BiomeGenSpectralGarden)
-74 is Occupied by Abyss (net.nevermine.dimension.abyss.BiomeGenAbyss)
-75 is Occupied by Precasia (net.nevermine.dimension.precasia.BiomeGenPrecasia)
+74 is Occupied by Abyssal Void (net.nevermine.dimension.abyss.biome.BiomeGenAbyss)
+75 is Occupied by Precasian Forest (net.nevermine.dimension.precasia.biome.BiomeGenPrecasia)
 76 is Occupied by Haven (net.nevermine.dimension.haven.BiomeGenHaven)
 77 is Occupied by Mysterium (net.nevermine.dimension.mysterium.BiomeGenMysterium)
-78 is Occupied by Iromine (net.nevermine.dimension.iromine.BiomeGenIromine)
+78 is Occupied by Golden Hills (net.nevermine.dimension.iromine.biome.BiomeGenIromine)
 79 is Occupied by Lunalus (net.nevermine.dimension.lunalus.BiomeGenLunalus)
-80 is Occupied by Deeplands (net.nevermine.dimension.deeplands.BiomeGenDeeplands)
-81 is Occupied by Gardencia (net.nevermine.dimension.gardencia.BiomeGenGardencia)
-82 is Occupied by Greckon (net.nevermine.dimension.greckon.BiomeGenGreckon)
-83 is Occupied by Dustopia (net.nevermine.dimension.dustopia.BiomeGenDustopia)
-84 is Occupied by Borean (net.nevermine.dimension.lborean.BiomeGenBorean)
+80 is Occupied by Deeplands Cave (net.nevermine.dimension.deeplands.biome.BiomeGenDeeplands)
+81 is Occupied by Gardencia (net.nevermine.dimension.gardencia.biome.BiomeGenGardencia)
+82 is Occupied by Greckon (net.nevermine.dimension.greckon.biome.BiomeGenGreckon)
+83 is Occupied by Dustopian Forest (net.nevermine.dimension.dustopia.biome.BiomeGenDustopia)
+84 is Occupied by Borean Ponds (net.nevermine.dimension.lborean.biome.BiomeGenBorean)
 85 is Occupied by Vox Ponds (net.nevermine.dimension.voxponds.BiomeGenVoxponds)
 86 is Occupied by Runandor (net.nevermine.dimension.runandor.BiomeGenRunandor)
-87 is Occupied by Barathos (net.nevermine.dimension.barathos.BiomeGenBarathos)
+87 is Occupied by Barathos (net.nevermine.dimension.barathos.biome.BiomeGenBarathos)
 88 is Occupied by Vox Ponds (net.nevermine.dimension.labricon.BiomeGenLabricon)
 89 is Occupied by Lelyetia (net.nevermine.dimension.lelyetia.BiomeGenLelyetia)
 90 is Occupied by Ancient Cavern (net.nevermine.dimension.ancientcavern.BiomeGenAncientCavern)
 91 is Occupied by Celeve (net.nevermine.dimension.celeve.BiomeGenCeleve)
 92 is Occupied by Crystevia (net.nevermine.dimension.crystevia.BiomeGenCrystevia)
-93 is Occupied by Candyland (net.nevermine.dimension.candyland.BiomeGenCandyland)
+93 is Occupied by Candyland (net.nevermine.dimension.candyland.biome.BiomeGenCandyland)
 94 is Occupied by Creeponia (net.nevermine.dimension.creeponia.BiomeGenCreeponia)
 95 is Occupied by Immortallis (net.nevermine.dimension.immortallis.BiomeGenImmortallis)
 96 is Occupied by Wetland (biomesoplenty.common.biome.overworld.BiomeGenWetland)
@@ -209,30 +209,30 @@ All ids and their position:
 204 is Occupied by Rainforest (biomesoplenty.common.biome.overworld.BiomeGenRainforest)
 205 is Occupied by Redwood Forest (biomesoplenty.common.biome.overworld.BiomeGenRedwoodForest)
 206 is Occupied by Sacred Springs (biomesoplenty.common.biome.overworld.BiomeGenSacredSprings)
-207 is Avaible
-208 is Avaible
-209 is Avaible
-210 is Avaible
-211 is Avaible
-212 is Avaible
-213 is Avaible
-214 is Avaible
-215 is Avaible
-216 is Avaible
-217 is Avaible
-218 is Avaible
-219 is Avaible
-220 is Avaible
-221 is Avaible
-222 is Avaible
-223 is Avaible
-224 is Avaible
-225 is Avaible
-226 is Avaible
-227 is Avaible
-228 is Avaible
-229 is Avaible
-230 is Avaible
+207 is Occupied by Precasian Desert (net.nevermine.dimension.precasia.biome.BiomeGenPrecasiaDesert)
+208 is Occupied by Precasian Field (net.nevermine.dimension.precasia.biome.BiomeGenPrecasiaField)
+209 is Occupied by Tall Precasian Forest (net.nevermine.dimension.precasia.biome.BiomeGenPrecasiaTall)
+210 is Occupied by Abyssal Shadow Forest (net.nevermine.dimension.abyss.biome.BiomeGenAbyssShadow)
+211 is Occupied by Abyssal Eyelands (net.nevermine.dimension.abyss.biome.BiomeGenAbyssEye)
+212 is Occupied by Silvro Hills (net.nevermine.dimension.iromine.biome.BiomeGenIromineSilver)
+213 is Occupied by Iro-Tech Hills (net.nevermine.dimension.iromine.biome.BiomeGenIromineTech)
+214 is Occupied by Deep Fungal Cave (net.nevermine.dimension.deeplands.biome.BiomeGenDeeplandsFungal)
+215 is Occupied by Deepshine Cave (net.nevermine.dimension.deeplands.biome.BiomeGenDeeplandsShine)
+216 is Occupied by Gardencian Fungi (net.nevermine.dimension.gardencia.biome.BiomeGenGardenciaFungal)
+217 is Occupied by Gardencian Marsh (net.nevermine.dimension.gardencia.biome.BiomeGenGardenciaMarsh)
+218 is Occupied by Haunted Forest (net.nevermine.dimension.greckon.biome.BiomeGenGreckonForest)
+219 is Occupied by Greckon Skulls (net.nevermine.dimension.greckon.biome.BiomeGenGreckonSkull)
+220 is Occupied by Coral Forest (net.nevermine.dimension.lborean.biome.BiomeGenBoreanForest)
+221 is Occupied by Borean Bubble Forest (net.nevermine.dimension.lborean.biome.BiomeGenBoreanBubble)
+222 is Occupied by L'Borean Reds (net.nevermine.dimension.lborean.biome.BiomeGenBoreanRed)
+223 is Occupied by Alien Forest (net.nevermine.dimension.barathos.biome.BiomeGenBaronForest)
+224 is Occupied by Rocky Mazus (net.nevermine.dimension.barathos.biome.BiomeGenBaronMaze)
+225 is Occupied by Dustopian Marsh (net.nevermine.dimension.dustopia.biome.BiomeGenDustopiaMarsh)
+226 is Occupied by Dustopian Plains (net.nevermine.dimension.dustopia.biome.BiomeGenDustopiaPlains)
+227 is Occupied by Chocolate Forest (net.nevermine.dimension.candyland.biome.BiomeGenCandylandChocolate)
+228 is Occupied by Marshmallow Hills (net.nevermine.dimension.candyland.biome.BiomeGenCandylandMarshmallow)
+229 is Occupied by Rock Candy Hills (net.nevermine.dimension.candyland.biome.BiomeGenCandylandRock)
+230 is Occupied by Shyrelands (net.nevermine.dimension.shyrelands.BiomeGenShyrelands)
 231 is Avaible
 232 is Avaible
 233 is Avaible

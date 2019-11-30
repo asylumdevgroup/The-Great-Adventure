@@ -1,18 +1,33 @@
+# Add the following to your gitignore:
 
-mods/
+# Instance Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.jar.meta
+
+# Optional: Generic Modpack Ignores
+**/*.log
+/.mixin.out
+/saves
+/downloads
+/resourcepacks
+.curseclient
+options.txt
+journeymap/
 
 logs/
 
-saves/
-
-BotaniaVars\.dat
-
-minetweaker\.log
-
-journeymap/
-
-DivineRPG/
+mods/carpentersblocks/
 
 fonts/
 
-options\.txt
+crash-reports/
+
+asm/
+
+1213309934
+
+BotaniaVars.dat
+
+usernamecache.json

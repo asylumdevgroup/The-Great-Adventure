@@ -81,16 +81,22 @@ Kill the Four Guardians::0
 Enter the Abyss::0
 Kill Shadowlord::0
 Kill Elusive::0
-Enter Precasia and defeat the Skeletal Army::0
+Enter Precasia::0
+Defeat the Skeletal Army::0
+Kill Tyrosaur::0
 Enter Mysterium and kill King Shroomus::0
-Enter Iromine and Kill Silverfoot::0
+Enter Iromine::0
+Kill Silverfoot::0
+Kill MechBot::0
 Enter Lunalus and Kill Visualent::0
 Enter the Deeplands and Kill Kror::0
 Enter Gardencia and Kill Vinocorne::0
 Enter Greckon and Kill Bane::0
 Enter the Lands of Runandor and Kill Clunkhead::0
 Enter L'Borean and Kill Dracyon::0
-Enter Barathos and Kill the Hive King::0
+Enter Barathos::0
+Kill the Hive King::0
+Kill the Baroness::0
 Enter Vox Ponds and Kill Voxxulon::0
 Enter Dustopia and Kill the Primordial Five::0
 Enter the Lands of Lelyetia and Kill Graw::0
@@ -104,4 +110,5 @@ Enter Crystevia and Kill Crystocore::0
 Enter Candyland and kill Cotton Candor::0
 Enter Immortalis and Kill the Immortals::0
 Enter Creeponia and Kill C.R.E.E.P.::0
-Have Entered all Twenty AoA Dimensions and Killed all 26 Bosses::0
+Enter the Shyrelands and Kill Craexxeus::0
+Have Entered all 21 AoA Dimensions and Killed all 30 Bosses::0
