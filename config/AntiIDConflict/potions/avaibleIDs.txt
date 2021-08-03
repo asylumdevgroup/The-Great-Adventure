@@ -1,4 +1,4 @@
-Total amount of free potion ids: F:\Curse\Minecraft\Instances\The-Great-Adventure\config\AntiIDConflict\potions\avaibleIDs.txt
+Total amount of free potion ids: E:\CurseForge\Minecraft\Instances\The-Great-Adventure\config\AntiIDConflict\potions\avaibleIDs.txt
 List of free potion ids:
 0
 156

@@ -1,4 +1,4 @@
-Total amount of free biome ids: F:\Curse\Minecraft\Instances\The-Great-Adventure\config\AntiIDConflict\biomes\avaibleIDs.txt
+Total amount of free biome ids: E:\CurseForge\Minecraft\Instances\The-Great-Adventure\config\AntiIDConflict\biomes\avaibleIDs.txt
 List of free biome ids:
 231
 232
